@@ -21,7 +21,7 @@ function Map() {
 }
 
 export default function App() {
-  return (
+  return ( 
     <div>
       <Map />
     </div>
